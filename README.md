@@ -1,0 +1,1 @@
+Este es el primer proyecto que hice del sistema basado en roles, no tiene tantas políticas de seguridad pero tiene los mismos lenguajes de programacion que se usaron en el SISTEMA BASADO EN ROLES CON PROTECCION AVANZANDA, este fue el "pre" antes de realizar el otro
